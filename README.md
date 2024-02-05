@@ -4,4 +4,4 @@
 
 ### 谷歌浏览器安卓下载链接  [github.com/hello-world-1989/temp/blob/main/android/android-chrome.zip](https://github.com/hello-world-1989/temp/blob/main/android/android-chrome.zip)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/2e7c0e04-d013-4e86-9e82-bb905679173e)
 
-### 节点订阅地址 https://raw.githubusercontent.com/fqd00/fqd/main/dylj
+节点订阅地址 https://raw.githubusercontent.com/fqd00/fqd/main/dylj
