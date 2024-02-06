@@ -6,8 +6,10 @@
 ![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/d95d260d-d2e5-41b2-aaf6-67d53e281c28)
 ### 谷歌浏览器安卓[点击或者扫描二维码下载](https://api.ddooo.com/downm/207815)
 ![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/73013912-d803-4333-a7dd-f9bc0ceb015a)
+
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
 
+‼️‼️说明：所有节点均源自网络搜集，介意者勿用。
 ### 节点更新订阅 1 
 - `https://raw.githubusercontent.com/fqd00/fqd/main/dylj`
 ### 节点更新订阅 2
