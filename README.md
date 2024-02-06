@@ -1,4 +1,4 @@
-- - 主流科学上网工具下载（‼️注意：对于第一次科学上网的朋友，可先下载v2rayNG或者nthlink安装，成功科学上网后再安装谷歌浏览器）
+- 主流科学上网工具下载（‼️注意：对于第一次科学上网的朋友，可先下载v2rayNG或者nthlink安装，成功科学上网后再安装谷歌浏览器）
 ### v2rayNG安卓[点击下载github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk)![v2rayNG安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/241000e3-1c38-4da5-98ad-b9d388982654)
 
 
