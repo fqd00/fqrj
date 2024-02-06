@@ -4,8 +4,7 @@
 
 ### nthlink安卓[点击下载s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_2_1.apk](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_2_1.apk)![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/d95d260d-d2e5-41b2-aaf6-67d53e281c28)
 
-### 谷歌浏览器安卓[点击下载https://api.ddooo.com/downm/207815](https://api.ddooo.com/downm/207815)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/9d95357f-c3b2-4169-a5c5-af72a0017ec8)
-
+### 谷歌浏览器安卓[点击下载https://api.ddooo.com/downm/207815](https://api.ddooo.com/downm/207815)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/73013912-d803-4333-a7dd-f9bc0ceb015a)
 
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
 
