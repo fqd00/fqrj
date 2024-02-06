@@ -4,4 +4,5 @@
 ### nthlink安卓下载链接  [github.com/hello-world-1989/temp/blob/main/android/android-nthlink.zip](https://www.end-gfw.com/android/android-nthlink.zip)![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/14e75949-0394-4a4f-a154-68cd6e13237c)
 
 
-### 谷歌浏览器安卓下载链接  [github.com/hello-world-1989/temp/blob/main/android/android-chrome.zip](https://github.com/hello-world-1989/temp/blob/main/android/android-chrome.zip)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/df43a2a0-c184-4902-b361-b126b2b16ee6)
+### 谷歌浏览器安卓下载链接  [github.com/hello-world-1989/temp/blob/main/android/android-chrome.zip](https://raw.githubusercontent.com/hello-world-1989/temp/main/android/android-chrome.zip)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/182d7f0b-c629-4c3a-b496-2e492cf31dab)
+
