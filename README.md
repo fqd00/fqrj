@@ -8,8 +8,7 @@
 ### 谷歌浏览器安卓[点击下载raw.githubusercontent.com/hello-world-1989/temp/main/android/android-chrome.zip](https://raw.githubusercontent.com/hello-world-1989/temp/main/android/android-chrome.zip)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/182d7f0b-c629-4c3a-b496-2e492cf31dab)
 
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
-### 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点 
+
 ### 节点更新订阅 1 
 - `https://raw.githubusercontent.com/fqd00/fqd/main/dylj`
 ### 节点更新订阅 2
