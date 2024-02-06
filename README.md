@@ -1,4 +1,5 @@
-节点订阅链接复制👉 https://raw.githubusercontent.com/fqd00/fqd/main/dylj
+### 节点更新订阅  
+- `https://raw.githubusercontent.com/fqd00/fqd/main/dylj`
 ### v2rayNG安卓[点击下载github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk)![v2rayNG安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/d1788f8b-7e13-4bda-92a2-cd0c56e6ee52)
 
 ### nthlink安卓[点击下载www.end-gfw.com/android/android-nthlink.zip](https://www.end-gfw.com/android/android-nthlink.zip)![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/14e75949-0394-4a4f-a154-68cd6e13237c)
