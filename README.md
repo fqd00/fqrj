@@ -2,11 +2,10 @@
 - 🔊温馨提醒：国内大陆翻墙出来的人目的性都不同，有为了学习娱乐丰富自己的眼界和精神世界，也有因为国内大陆言论封锁信息封锁的原因等等，但不管出于什么目的，我们都别忘了要做一个善良的人。由于各方面原因，对于翻墙出来，一定要注意保护自己的隐私，不要在外网透露自己的真实身份信息。最后的我们一定要有自己的独立思考思想，不要做一个被别人牵着鼻子走的人，慢慢完善自己，树立相对正确的普世价值观。最最后祝大家越来越好，生活如意，身体健康！    
 ### v2rayNG安卓[点击下载github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk)![v2rayNG安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/241000e3-1c38-4da5-98ad-b9d388982654)
 
+### nthlink安卓[点击下载s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_2_1.apk](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_2_1.apk)![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/d95d260d-d2e5-41b2-aaf6-67d53e281c28)
 
-### nthlink安卓[点击下载raw.githubusercontent.com/hello-world-1989/temp/main/android/android-nthlink.zip](https://raw.githubusercontent.com/hello-world-1989/temp/main/android/android-nthlink.zip)![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/3f5a6d47-3a46-4b9c-8ac3-ef98e3485178)
+### 谷歌浏览器安卓[点击下载https://api.ddooo.com/downm/207815](https://api.ddooo.com/downm/207815)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/9d95357f-c3b2-4169-a5c5-af72a0017ec8)
 
-
-### 谷歌浏览器安卓[点击下载raw.githubusercontent.com/hello-world-1989/temp/main/android/android-chrome.zip](https://raw.githubusercontent.com/hello-world-1989/temp/main/android/android-chrome.zip)![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/182d7f0b-c629-4c3a-b496-2e492cf31dab)
 
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
 
