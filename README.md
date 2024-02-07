@@ -1,16 +1,23 @@
 - ❤️主流科学上网工具下载（‼️注意：对于第一次科学上网的朋友，可先下载v2rayNG或者nthlink安装，成功科学上网后再安装谷歌浏览器）
 - 🔊温馨提醒：国内大陆翻墙出来的人目的性都不同，有为了学习娱乐丰富自己的眼界和精神世界，也有因为国内大陆言论封锁信息封锁的原因等等，但不管出于什么目的，我们都别忘了要做一个善良的人。由于各方面原因，对于翻墙出来，一定要注意保护自己的隐私，不要在外网透露自己的真实身份信息。最后的我们一定要有自己的独立思考思想，不要做一个被别人牵着鼻子走的人，慢慢完善自己，树立相对正确的普世价值观。最最后祝大家越来越好，生活如意，身体健康！    
+
+
+
 ### v2rayNG安卓[点击或者扫描二维码下载](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk)
 ### v2rayN window64位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-arm64.zip)v2rayN window32位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-32.zip)
-![v2rayNG安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/11cd4959-6a8a-4055-96d1-a2b1acba2d5d)
+![v2rayNG安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/628b2d69-d0a4-41b3-a5f6-4e89ff30adc4)
 ### nthlink安卓[点击或者扫描二维码下载](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_2_1.apk)
 ### nthlink window[点击或下载](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-win-6_2_3.exe)
-![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/d95d260d-d2e5-41b2-aaf6-67d53e281c28)
+![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/55c29955-2677-4d2d-b882-d6d5cf50e3cd)
 ### 谷歌浏览器安卓[点击或者扫描二维码下载](https://api.ddooo.com/downm/207815)
 ### 谷歌浏览器 window[点击前往下载](https://www.google.com/intl/zh-CN/chrome)
-![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/73013912-d803-4333-a7dd-f9bc0ceb015a)
+![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/293a0dee-4c93-4b25-b8a6-d622b2571c09)
+
+
+
 
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
+
 
 ‼️‼️说明：所有节点均源自网络搜集，介意者勿用。
 ### 节点更新订阅 1 
@@ -21,7 +28,9 @@
 - `https://raw.fastgit.org/freefq/free/master/v2`
 ### 节点更新订阅 4
 - `https://raw.githubusercontent.com/mianfeifq/share/main/data2024026.txt`
-  ## 20240206更新可用节点
+
+
+### 20240206更新可用节点
 ```
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@cfcdn1.pubg.lol:443?encryption=none&security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=fuck0yes%21#%E8%BD%AF%E4%BB%B6%E6%94%B6%E8%97%8F%2F%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E5%88%86%E4%BA%AB%20https%3A%2F%2Ft.me%2Ffqdrjsc
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@ru02.nttkk.com:443?encryption=none&security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#HK%E9%A6%99%E6%B8%AF%28TG%E9%A2%91%E9%81%93%20t.me%2Ffqdrjsc%29
