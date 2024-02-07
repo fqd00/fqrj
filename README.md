@@ -1,5 +1,5 @@
--![bt](https://github.com/fqd00/fqrj/assets/156817518/bbe39436-3f37-4825-bf0e-4c0467193604)
-  
+ ![标题](https://github.com/fqd00/fqrj/assets/156817518/9dd3503c-4af7-46e7-ba90-8b62d390ec04)
+
 
 ### v2rayNG安卓[点击或者扫描二维码下载](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk)
 ### v2rayN window64位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-arm64.zip)v2rayN window32位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-32.zip)
