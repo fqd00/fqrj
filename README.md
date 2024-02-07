@@ -5,7 +5,7 @@
 ### v2rayN window64位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-arm64.zip)v2rayN window32位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-32.zip)
 ![v2rayNG安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/628b2d69-d0a4-41b3-a5f6-4e89ff30adc4)
 ### nthlink安卓[点击或者扫描二维码下载](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-6_2_1.apk)
-### nthlink window[点击或下载](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-win-6_2_3.exe)
+### nthlink window[点击下载](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/nthlink-win-6_2_3.exe)
 ![nthlink安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/55c29955-2677-4d2d-b882-d6d5cf50e3cd)
 ### 谷歌浏览器安卓[点击或者扫描二维码下载](https://api.ddooo.com/downm/207815)
 ### 谷歌浏览器 window[点击前往下载](https://www.google.com/intl/zh-CN/chrome)
