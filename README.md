@@ -1,8 +1,5 @@
 -![bt](https://github.com/fqd00/fqrj/assets/156817518/bbe39436-3f37-4825-bf0e-4c0467193604)
- ❤️主流科学上网工具下载（‼️注意：对于第一次科学上网的朋友，可先下载v2rayNG或者nthlink安装，成功科学上网后再安装谷歌浏览器）
-- 🔊温馨提醒：国内大陆翻墙出来的人目的性都不同，有为了学习娱乐丰富自己的眼界和精神世界，也有因为国内大陆言论封锁信息封锁的原因等等，但不管出于什么目的，我们都别忘了要做一个善良的人。由于各方面原因，对于翻墙出来，一定要注意保护自己的隐私，不要在外网透露自己的真实身份信息。最后的我们一定要有自己的独立思考思想，不要做一个被别人牵着鼻子走的人，慢慢完善自己，树立相对正确的普世价值观。最最后祝大家越来越好，生活如意，身体健康！    
-
-
+  
 
 ### v2rayNG安卓[点击或者扫描二维码下载](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk)
 ### v2rayN window64位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-arm64.zip)v2rayN window32位[点击下载](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-32.zip)
@@ -13,7 +10,6 @@
 ### 谷歌浏览器安卓[点击或者扫描二维码下载](https://api.ddooo.com/downm/207815)
 ### 谷歌浏览器 window[点击前往下载](https://www.google.com/intl/zh-CN/chrome)
 ![谷歌浏览器安卓下载二维码](https://github.com/fqd00/fqrj/assets/156817518/293a0dee-4c93-4b25-b8a6-d622b2571c09)
-
 
 
 
